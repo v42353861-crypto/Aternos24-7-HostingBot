@@ -1,7 +1,7 @@
 {
-  "name": "server 24/7",
+  "name": "afk bot",
   "bot-account": {
-    "username": "24/7 server",
+    "username": "botforserver",
     "password": "",
     "type": "offline"
   },
